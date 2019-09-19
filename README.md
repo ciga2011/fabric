@@ -71,8 +71,8 @@ information on getting started using and developing with the fabric, SDK and cha
 - [v1.1](http://hyperledger-fabric.readthedocs.io/en/release-1.1/)
 - [v1.0](http://hyperledger-fabric.readthedocs.io/en/release-1.0/)
 - [master branch (development)](http://hyperledger-fabric.readthedocs.io/en/master/)
-- [Hyperledger Fabric Java Dev Detailed Course](http://xc.hubwiz.com/course/5c9b89f54898e59b7b63430a?affid=github7878)
-- [Hyperledger Fabric NodeJS Dev detailed Course](http://xc.hubwiz.com/course/5c95f916a8d86b7067ffebb8?affid=github7878)
+- [Hyperledger Fabric Java Dev Course](http://xc.hubwiz.com/course/5c9b89f54898e59b7b63430a?affid=github7878)
+- [Hyperledger Fabric NodeJS Dev Course](http://xc.hubwiz.com/course/5c95f916a8d86b7067ffebb8?affid=github7878)
 
 It's recommended for first-time users to begin by going through the Getting Started section of the documentation in order to gain familiarity with the Hyperledger Fabric components and the basic transaction flow.
 
